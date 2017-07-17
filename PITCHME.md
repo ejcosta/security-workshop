@@ -1,29 +1,29 @@
-## Because security matters!
+## BECAUSE SECURITY MATTERS!
 
 ---
 
-## Criptografia
-### encriptação com chave simétrica, assimétrica e distribuída
+## CRIPTOGRAFIA
+### ENCRIPTAÇÃO COM CHAVE SIMÉTRICA, ASSIMÉTRICA E DISTRIBUÍDA
 
 +++
 
-## chave simétrica
+## CHAVE SIMÉTRICA
 
-TL;DR
-
-+++
-
-## chave assimétrica
-
-TL;DR
+AES...
 
 +++
 
-## chave distribuída
+## CHAVE ASSIMÉTRICA
 
-TL;DR
+RSA...
+
++++
+
+## CHAVE DISTRIBUÍDA
+
+Shamir's Secret Sharing...
 
 ---
 
-## Funções Hash
+## FUNÇÕES HASH
 ### SHA-1, SHA-256, MD5 ...
