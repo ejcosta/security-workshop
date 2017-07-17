@@ -1,13 +1,29 @@
-Hello!
+## Because security matters!
 
 +++
 
-Hola!
+## Criptografia
+### encriptação com chave simétrica, assimétrica e distribuída
 
 ---
 
-Goodbye!
+## chave simétrica
+
+TL;DR
+
+---
+
+## chave assimétrica
+
+TL;DR
+
+---
+
+## chave distribuída
+
+TL;DR
 
 +++
 
-Adiós!
+## Funções Hash
+### SHA-1, SHA-256, MD5 ...
