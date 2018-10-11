@@ -1,5 +1,15 @@
 ## BECAUSE SECURITY MATTERS!
 
++++
+
+### DISCLAIMER
+
+Note:
+
+- Não sou expert
+- Podem haver erros
+- Partilhem conhecimento
+
 ---
 
 ## FUNÇÕES HASH
@@ -11,7 +21,7 @@
 
 +++
 
-### SHA-1, SHA-256, MD5...
+### MD5, SHA-1, SHA-256...
 ```bash
 ~> echo -n "Security at NOS" | md5sum
 bed116fd1d4b8a42925fdf423a11a366
