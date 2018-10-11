@@ -7,7 +7,7 @@
 +++
 
 ### Wikipedia
-Uma função hash é um algoritmo que mapeia dados de comprimento variável para dados de comprimento fixo
+"_Uma função hash é um algoritmo que mapeia dados de comprimento variável para dados de comprimento fixo_"
 
 +++
 
@@ -23,7 +23,7 @@ ac3f363ea27197b51319a5120f1a9d60de152ee4
 a81210d2cce71a233586b8ec27d9462d8c3a0a540001df450dea67bf26bb6507
 ```
 
-Pequena alteração no input representa uma completa alteração do output:
+Uma pequena alteração no input representa uma completa alteração do output:
 ```bash
 ~> echo -n "Security at NOs" | md5sum
 c259402b446c63ce45e1475f397895ba
@@ -50,12 +50,12 @@ Note:
 +++
 
 ### MD5 IS DEAD...
-Apenas para validação de integridade, @color[red](nunca para segurança!!)
+Usar apenas para validação de integridade, @color[red](NUNCA PARA SEGURANÇA!!!)
 
 +++
 
 #### ...AND SHA-1 IS ALSO DEAD
-[![Shattered](assets/img/shattered.png)](https://shattered.io/)
+[![Shattered](https://shattered.io/static/logo.png)](https://shattered.io/)
 
 ---
 
