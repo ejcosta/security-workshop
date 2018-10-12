@@ -97,12 +97,14 @@ https://shattered.io/
 ## CHAVE SIMÉTRICA
 
 AES...
+![PreSharedKey](assets/img/PreSharedKey.png)
 
 +++
 
 ## CHAVE DISTRIBUÍDA
 
 Shamir's Secret Sharing...
+![DistributedSharedKey](assets/img/DistributedSharedKey.png)
 
 +++
 
