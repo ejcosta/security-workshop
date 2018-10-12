@@ -82,7 +82,7 @@ Usar apenas para validação de integridade, @color[red](NUNCA PARA SEGURANÇA!!
 
 +++
 
-#### ...AND SHA-1 IS ALSO DEAD
+### ...AND SHA-1 IS ALSO DEAD
 
 ![Shattered](assets/img/ShatteredLogo.png)
 https://shattered.io/
