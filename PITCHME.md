@@ -73,7 +73,7 @@ Note:
 
 +++
 
-![PasswordMeme](assets/img/PasswordMeme.png)
+![PasswordMeme](assets/img/PasswordMeme.jpg)
 
 +++
 
