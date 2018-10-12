@@ -85,7 +85,7 @@ Usar apenas para validação de integridade, @color[red](NUNCA PARA SEGURANÇA!!
 ### ...AND SHA-1 IS ALSO DEAD
 
 ![Shattered](assets/img/ShatteredLogo.png)
-
+<br>
 https://shattered.io/
 
 ---
@@ -98,7 +98,7 @@ https://shattered.io/
 ## CHAVE SIMÉTRICA
 
 AES...
-
+<br>
 ![PreSharedKey](assets/img/PreSharedKey.png)
 
 +++
@@ -106,7 +106,7 @@ AES...
 ## CHAVE DISTRIBUÍDA
 
 Shamir's Secret Sharing...
-
+<br>
 ![DistributedSharedKey](assets/img/DistributedSharedKey.png)
 
 +++
