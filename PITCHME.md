@@ -59,14 +59,21 @@ Note:
 Note:
 
 - Downloads e GIT
+- O site também pode ser "hackado" e ter uma hash inválida
 
 +++
 
 #### SEGURANÇA
 
+![PasswordHash](assets/img/PasswordHash.png)
+
 Note:
 
 - Assinatura Digital, TLS, Armazenamento de Passwords (+SALT)
+
++++
+
+![PasswordMeme](assets/img/PasswordMeme.png)
 
 +++
 
