@@ -44,18 +44,29 @@ Note:
 - Vários tipos de HASH
 - Output de tamanho fixo
 - Como funcionam
-- Apenas um sentido (there is no way back)
+- Não serve para encriptar, apenas um sentido (there is no way back)
 
 +++
 
 ### PARA QUE SERVEM?
-- VALIDAÇÃO DE INTEGRIDADE
-- SEGURANÇA
+
++++
+
+#### VALIDAÇÃO DE INTEGRIDADE
+
+![DownloadHashVerification](assets/img/DownloadHashVerification.png)
 
 Note:
 
-- Integridade: Downloads e GIT
-- Segurança: Assinatura Digital e TLS
+- Downloads e GIT
+
++++
+
+#### SEGURANÇA
+
+Note:
+
+- Assinatura Digital, TLS, Armazenamento de Passwords (+SALT)
 
 +++
 
