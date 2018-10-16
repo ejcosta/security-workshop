@@ -58,7 +58,8 @@ Note:
 
 Note:
 
-- Downloads e GIT
+- Downloads
+- GIT
 - O site também pode ser "hackado" e ter uma hash inválida
 
 +++
