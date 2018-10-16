@@ -140,7 +140,6 @@ Source: [Wikipédia](https://pt.wikipedia.org/wiki/Diffie-Hellman)
 
 ## ASSINATURA DIGITAL
 
-<br>
 ![PublicKey](assets/img/PublicKeySign.png)
 
 Note:
