@@ -116,7 +116,7 @@ Shamir's Secret Sharing
 
 ## CHAVE ASSIMÉTRICA
 
-RSA, Diffie-Hellman
+#### RSA, Diffie-Hellman
 
 Note:
 
@@ -124,16 +124,14 @@ Note:
 
 +++
 
-#### RSA
+### RSA
 
-<br>
 ![PublicKey](assets/img/PublicKeyEncrypt.png)
 
 +++
 
-#### Diffie-Hellman
+### Diffie-Hellman
 
-<br>
 ![DiffieHellman](assets/img/Diffie-Hellman_Key_Exchange.jpg)
 
 Source: [Wikipédia](https://pt.wikipedia.org/wiki/Diffie-Hellman)
