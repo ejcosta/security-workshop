@@ -70,7 +70,9 @@ Note:
 
 Note:
 
-- Assinatura Digital, TLS, Armazenamento de Passwords (+SALT)
+- Assinatura Digital
+- TLS
+- Armazenamento de Passwords (+SALT)
 
 +++
 
@@ -98,7 +100,7 @@ https://shattered.io/
 
 ## CHAVE SIMÉTRICA
 
-AES...
+AES
 <br>
 ![PreSharedKey](assets/img/PreSharedKey.png)
 
@@ -106,7 +108,7 @@ AES...
 
 ## CHAVE DISTRIBUÍDA
 
-Shamir's Secret Sharing...
+Shamir's Secret Sharing
 <br>
 ![DistributedSharedKey](assets/img/DistributedSharedKey.png)
 
@@ -114,14 +116,40 @@ Shamir's Secret Sharing...
 
 ## CHAVE ASSIMÉTRICA
 
-Diffie-Hellman, RSA...
+RSA, Diffie-Hellman
+
+Note:
+
+- Diffie-Hellman: no final do acordo apenas existe uma chave comum
+
++++
+
+#### RSA
+
+<br>
+![PublicKey](assets/img/PublicKeyEncrypt.png)
+
++++
+
+#### Diffie-Hellman
+
+<br>
+![DiffieHellman](assets/img/Diffie-Hellman_Key_Exchange.jpg)
+
+Source: [Wikipédia](https://pt.wikipedia.org/wiki/Diffie-Hellman)
 
 +++
 
 ## ASSINATURA DIGITAL
 
-Assinar documentos, código, log, etc.
-Assinar com Cartão de Cidadão (PKCS \#11)
+<br>
+![PublicKey](assets/img/PublicKeySign.png)
+
+Notes
+
+- Assinar documentos, código, log, etc.
+- Assinar com Cartão de Cidadão (PKCS \#11)
+- Assinar e encriptar ou encriptar e assinar?
 
 ---
 
