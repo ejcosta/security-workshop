@@ -134,8 +134,6 @@ Note:
 
 ![DiffieHellman](assets/img/Diffie-Hellman_Key_Exchange.jpg)
 
-Source: [Wikipédia](https://pt.wikipedia.org/wiki/Diffie-Hellman)
-
 +++
 
 ## ASSINATURA DIGITAL
