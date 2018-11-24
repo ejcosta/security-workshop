@@ -157,6 +157,12 @@ O que são certificados e para que servem
 
 +++
 
+### TLS
+
+![SSLCertificate](assets/img/TLSCerts.png)
+
++++
+
 CA (Certificate Authorities) / CSR (Certificate Signing Request) / Let's Encrypt
 Google Certificate Transparency (https://www.certificate-transparency.org/)
 Man-in-the-middle attack – como funciona
