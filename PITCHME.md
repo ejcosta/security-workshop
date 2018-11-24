@@ -161,13 +161,20 @@ O que são certificados e para que servem
 
 ![SSLCertificate](assets/img/TLSCerts.png)
 
+Note:
+
+- Google Certificate Transparency
+- Let's Encrypt
+- Man-in-the-middle attack – como funciona
+- Porque a Google mudou de RSA para ECDHE
+
 +++
 
-CA (Certificate Authorities) / CSR (Certificate Signing Request) / Let's Encrypt
-Google Certificate Transparency (https://www.certificate-transparency.org/)
-Man-in-the-middle attack – como funciona
-Porque a Google mudou de RSA para ECDHE
-Punycode attack (https://www.xudongz.com/blog/2017/idn-phishing/)
+### PUNYCODE ATTACK
+
+![SSLCertificate](assets/img/PunycodeAttack.png)
+<br>
+https://www.xudongz.com/blog/2017/idn-phishing/
 
 ---
 
