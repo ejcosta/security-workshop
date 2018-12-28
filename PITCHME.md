@@ -163,6 +163,7 @@ O que são certificados e para que servem
 
 Note:
 
+- ROOT e INTERMEDIATE certificates
 - Google Certificate Transparency
 - Let's Encrypt
 - Man-in-the-middle attack – como funciona
